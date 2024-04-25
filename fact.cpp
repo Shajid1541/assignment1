@@ -11,6 +11,7 @@ int factorial(int n) {
 
 int main() {
     int n;
+    int m;
     int y;
     cout << "Enter a positive integer: ";
     cin >> n;
