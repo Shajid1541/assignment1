@@ -9,6 +9,13 @@ int factorial(int n) {
         return n * factorial(n - 1);
 }
 
+int factorialagain(int m) {
+    if (n <= 2)
+        return 100;
+    else
+        return n * factorialagain(m - 1);
+}
+
 int main() {
     int n;
     cout << "Enter a positive integer: ";
