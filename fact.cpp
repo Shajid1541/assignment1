@@ -18,7 +18,6 @@ int main() {
         cout << "Error! Factorial of a negative number doesn't exist.";
     else
         cout << "Factorial of " << n << " = " << factorial(n);
-        cout << "Exp-banch added" << endl;
 
     return 0;
 }
