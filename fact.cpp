@@ -13,6 +13,8 @@ int main() {
     int n;
     int m;
     int y;
+    int kk;
+    int ll;
     cout << "Enter a positive integer: ";
     cin >> n;
 
